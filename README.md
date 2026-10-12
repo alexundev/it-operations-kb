@@ -14,10 +14,10 @@ As áreas de foco refletem as demandas críticas da operação de infraestrutura
 
 ## Arquitetura do Laboratório
 
-Para manter a escalabilidade da documentação, a base de conhecimento e as evidências práticas estão segmentadas por provedores/fontes de tecnologia:
+A documentação técnica e os cenários práticos estão organizados por plataforma e domínio de atuação:
 
 - **knowledge-base/**: Manuais executivos e documentação conceitual focada na "Visão de Troubleshooting" (Como as coisas quebram e como consertar).
-  - `/dltec/`:
+  - `/dltec/`: Materiais e certificações da plataforma DLTEC.
     - `/01-redes/`: Foco em topologias, protocolos de Redes e telecomunicações.
 
 ---
