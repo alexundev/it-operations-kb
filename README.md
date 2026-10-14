@@ -20,5 +20,8 @@ A documentação técnica e os cenários práticos estão organizados por plataf
   - `/dltec/`: Materiais e certificações da plataforma DLTEC.
     - `/01-redes/`: Foco em topologias, protocolos de Redes e telecomunicações.
 
+- **labs/**: Laboratórios práticos.
+- **quiz/**: Testes de conhecimento.
+
 ---
 *Nota: Este repositório é um ambiente vivo e operacional. Ele será atualizado continuamente com novos laboratórios, scripts e documentações à medida que a infraestrutura e os cenários de troubleshooting evoluem.*
