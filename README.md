@@ -1,27 +1,111 @@
-# Laboratório de Operações de Redes e NOC
+# NOC Operations Knowledge Base
 
-## Sobre este Repositório
+Repositório técnico dedicado à documentação e aplicação prática de conhecimentos relacionados a **Redes, Infraestrutura e Operações de NOC**.
 
-Este repositório é um portfólio técnico em constante evolução, construído para documentar meu aprimoramento profissional e consolidar na prática os conceitos de Infraestrutura, Operações de NOC (Network Operations Center) e práticas de DevOps.
+O objetivo deste projeto é construir progressivamente uma base técnica voltada à compreensão do funcionamento de redes, análise de falhas e troubleshooting, reunindo documentação própria e laboratórios executados em ambiente controlado.
 
-O material aqui presente funciona como um laboratório de estudos e simulação de ambientes corporativos. O objetivo principal é validar de forma prática as competências exigidas pelo mercado, priorizando a resolução de problemas (troubleshooting), análise de causa raiz e garantia de SLA.
-
-## Stack Tecnológico
-
-As áreas de foco refletem as demandas críticas da operação de infraestrutura:
-
-- **Redes e Protocolos:** Modelo OSI.
-
-## Arquitetura do Laboratório
-
-A documentação técnica e os cenários práticos estão organizados por plataforma e domínio de atuação:
-
-- **knowledge-base/**: Manuais executivos e documentação conceitual focada na "Visão de Troubleshooting" (Como as coisas quebram e como consertar).
-  - `/dltec/`: Materiais e certificações da plataforma DLTEC.
-    - `/01-redes/`: Foco em topologias, protocolos de Redes e telecomunicações.
-
-- **labs/**: Laboratórios práticos.
-- **quiz/**: Testes de conhecimento.
+O conteúdo é expandido conforme novos conceitos são estudados, compreendidos e aplicados na prática.
 
 ---
-*Nota: Este repositório é um ambiente vivo e operacional. Ele será atualizado continuamente com novos laboratórios, scripts e documentações à medida que a infraestrutura e os cenários de troubleshooting evoluem.*
+
+## Conteúdo Atual
+
+### [Redes](knowledge-base/networking/)
+
+Documentação técnica e laboratórios relacionados aos fundamentos de redes de computadores, com foco progressivo em funcionamento, análise de falhas e troubleshooting.
+
+O conteúdo deste domínio é expandido conforme novos conceitos são incorporados e validados no projeto.
+
+---
+
+## Estrutura do Repositório
+
+```text
+noc-operations-kb/
+├── docs/
+├── knowledge-base/
+│   └── networking/
+├── labs/
+│   └── networking/
+└── README.md
+```
+
+### [`docs/`](docs/)
+
+Documentação relacionada aos critérios e padrões utilizados na organização e validação do projeto.
+
+### [`knowledge-base/`](knowledge-base/)
+
+Base de documentação técnica consolidada.
+
+Os documentos são desenvolvidos com foco na compreensão dos conceitos e em sua aplicação dentro de cenários de infraestrutura e troubleshooting.
+
+### [`labs/`](labs/)
+
+Registro de laboratórios, testes e cenários práticos executados em ambiente controlado, organizados por domínio técnico.
+
+Os laboratórios seguem numeração cronológica conforme a ordem de criação, permitindo acompanhar a evolução prática do projeto ao longo do tempo.
+
+Os laboratórios documentam, quando aplicável:
+
+- objetivo;
+- ambiente utilizado;
+- procedimentos executados;
+- comportamento observado;
+- análise dos resultados;
+- diagnóstico, quando houver;
+- resolução, quando aplicável;
+- validação;
+- conclusão.
+
+---
+
+## Critérios de Validação
+
+O projeto utiliza critérios mínimos para validação de conhecimentos e atividades práticas.
+
+A metodologia completa está documentada em [`docs/validation-criteria.md`](docs/validation-criteria.md).
+
+---
+
+## Ambiente de Laboratório
+
+O ambiente utilizado atualmente para execução dos testes e laboratórios é composto por:
+
+- **macOS** como sistema host;
+- **UTM** para virtualização;
+- **Linux** como ambiente virtualizado;
+- **Git** para controle de versão;
+- **GitHub** para documentação e versionamento do projeto.
+
+---
+
+## Formação Técnica
+
+Os fundamentos atualmente documentados neste repositório têm como uma das principais bases a formação técnica realizada através da **DLTEC**, com foco inicial em Redes e Infraestrutura.
+
+Todo o conteúdo deste repositório é produzido de forma independente a partir da compreensão, consolidação e aplicação prática dos conceitos estudados.
+
+---
+
+## Abordagem Operacional
+
+A documentação busca analisar cada conceito a partir de uma perspectiva técnica e operacional.
+
+Sempre que aplicável, o conteúdo procura responder às seguintes perguntas:
+
+1. **Como funciona?**
+2. **Qual é sua função dentro do ambiente?**
+3. **Como uma falha pode se manifestar?**
+4. **Como investigar o problema?**
+5. **Como validar o funcionamento após uma intervenção?**
+
+Essa abordagem permite que a base de conhecimento evolua progressivamente de fundamentos teóricos para cenários práticos de operação e troubleshooting.
+
+---
+
+## Evolução do Projeto
+
+Este repositório é mantido como uma base técnica em evolução contínua.
+
+Novos documentos e laboratórios são adicionados somente após os respectivos conceitos serem estudados, compreendidos ou executados na prática.
