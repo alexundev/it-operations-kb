@@ -31,3 +31,19 @@ A Camada 2 é responsável por fazer a ligação entre as camadas. É subdividid
 Se necessária uma infraestrutura de mais de 100m, configurar as portas do Hub/Repetidor (para aumentar o alcance) em Half-Duplex.
   
 - **CSMA/CA:** Como o protocolo obriga os dispositivos a esperarem o meio ficar livre, o primeiro passo do troubleshooting ao investigar lentidão no Wi-Fi é verificar a quantidade de dispositivos conectados simultaneamente. O teste prático para validar se o gargalo é a contenção do meio compartilhado consiste em isolar o teste (reduzir o número de aparelhos na rede) e verificar se a latência e a velocidade normalizam.
+
+## Camada 3: Rede
+
+**Conceito:**
+
+  Responsável por fazer o endereçamento lógico (IP, seja o IPv4 ou IPv6) e enviar os dados, sem se preocupar se os dados chegarão intactos ou não.
+
+**Visão de Troubleshooting:**
+
+## Camada 4: Transporte
+
+**Conceito:**
+
+  Responsável pela segmentação e por garantir como a entrega será feita (com confirmação via TCP ou sem confirmação via UDP). Ela utiliza Portas lógicas para formar Sockets.
+
+**Visão de Troubleshooting:**
