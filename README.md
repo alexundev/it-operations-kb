@@ -44,8 +44,6 @@ Os documentos são desenvolvidos com foco na compreensão dos conceitos e em sua
 
 Registro de laboratórios, testes e cenários práticos executados em ambiente controlado, organizados por domínio técnico.
 
-Os laboratórios seguem numeração cronológica conforme a ordem de criação, permitindo acompanhar a evolução prática do projeto ao longo do tempo.
-
 Os laboratórios documentam, quando aplicável:
 
 - objetivo;
