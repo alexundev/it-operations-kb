@@ -1,10 +1,10 @@
-# NOC Operations Knowledge Base
+# IT Operations Knowledge Base
 
-Repositório técnico dedicado à documentação e aplicação prática de conhecimentos relacionados a **Redes, Infraestrutura e Operações de NOC**.
+Repositório técnico dedicado à documentação de conhecimentos e laboratórios práticos relacionados a **Redes, Infraestrutura e Operações de TI**.
 
-O objetivo deste projeto é construir progressivamente uma base técnica voltada à compreensão do funcionamento de redes, análise de falhas e troubleshooting, reunindo documentação própria e laboratórios executados em ambiente controlado.
+O projeto tem como objetivo consolidar fundamentos técnicos, desenvolver habilidades de análise e troubleshooting e documentar procedimentos utilizados em ambientes operacionais.
 
-O conteúdo é expandido conforme novos conceitos são estudados, compreendidos e aplicados na prática.
+A base de conhecimento será expandida progressivamente, abrangendo temas relacionados a **monitoramento, suporte técnico, sistemas e automação**, conforme novos conhecimentos forem adquiridos e validados.
 
 ---
 
@@ -21,7 +21,7 @@ O conteúdo deste domínio é expandido conforme novos conceitos são incorporad
 ## Estrutura do Repositório
 
 ```text
-noc-operations-kb/
+it-operations-kb/
 ├── docs/
 ├── knowledge-base/
 │   └── networking/
