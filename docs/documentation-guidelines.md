@@ -39,7 +39,7 @@ Quando aplicável, podem utilizar a seguinte estrutura:
 
 ## Ambiente
 
-## Procedimento
+## Comando Utilizado
 
 ## Análise
 

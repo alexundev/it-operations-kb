@@ -14,3 +14,5 @@ sincronização (checkpoints), que podem permitir
 retomar uma operação a partir de um ponto conhecido,
 sem necessariamente reiniciá-la do começo após
 uma interrupção.
+
+## Funcionamento

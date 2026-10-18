@@ -19,7 +19,7 @@ O laboratório tem como objetivo relacionar os conceitos da Camada 2 do Modelo O
 
 ---
 
-## Identificação da Interface
+## Comando Utilizado
 
 Para identificar as interfaces disponíveis e seus respectivos endereços MAC:
 
@@ -41,8 +41,6 @@ XX:XX:XX:XX:XX:XX
 
 ---
 
-## Captura do Tráfego
-
 Foi utilizado o `tcpdump` para capturar 10 unidades de tráfego da interface selecionada e exibir seu conteúdo em formato hexadecimal e ASCII.
 
 ```bash
@@ -57,7 +55,7 @@ Parâmetros utilizados:
 
 ---
 
-## Análise do Quadro
+## Análise
 
 Um dos cabeçalhos capturados foi selecionado para análise.
 

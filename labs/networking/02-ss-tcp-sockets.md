@@ -16,7 +16,7 @@ O laboratório tem como objetivo relacionar os conceitos da Camada de Transporte
 
 ---
 
-## Comando Executado
+## Comando Utilizado
 
 ```bash
 sudo ss -tpan
