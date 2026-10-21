@@ -15,4 +15,6 @@ retomar uma operação a partir de um ponto conhecido,
 sem necessariamente reiniciá-la do começo após
 uma interrupção.
 
-## Funcionamento
+## Visão de Troubleshooting
+
+Investigar problemas relacionados ao estabelecimento, manutenção ou encerramento de sessões entre aplicações.

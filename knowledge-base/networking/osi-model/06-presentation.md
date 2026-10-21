@@ -6,4 +6,6 @@ A camada 6 é responsável pela formatação/representação dos dados. Além di
 A criptografia protege a confidencialidade dos dados.
 A compressão diminui o tamanho das informações.
 
-## Funcionamento
+## Visão de Troubleshooting
+
+Investigar problemas de interpretação e representação de dados, como incompatibilidade de formatos, codificação e falhas de criptografia.
