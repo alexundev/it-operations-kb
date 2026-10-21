@@ -25,6 +25,8 @@ it-operations-kb/
 ├── docs/
 ├── knowledge-base/
 │   └── networking/
+│       ├── osi-model/
+│       └── tcp-ip/
 ├── labs/
 │   └── networking/
 └── README.md
