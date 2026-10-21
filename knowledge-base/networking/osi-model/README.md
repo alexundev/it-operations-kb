@@ -1,7 +1,7 @@
 # Modelo OSI
 
-> "O modelo OSI se trata da interconexão de sistemas abertos - ou seja, sistemas que estão abertos à comunicação com outros sistemas."  
-> — Tanenbaum (2005, p. 45)
+> "O modelo é chamado Modelo de Referência ISO OSI (Open Systems Interconnection), pois ele trata da interconexão de sistemas abertos — ou seja, sistemas que estão abertos à comunicação com outros sistemas."  
+> — Tanenbaum (2003, p. 45)
 
 O Modelo OSI é uma arquitetura de referência estruturada em **sete camadas**, utilizada para organizar as diferentes funções envolvidas na comunicação entre sistemas.
 
@@ -17,8 +17,6 @@ Até o momento, estão documentadas as seguintes camadas:
 6. [Camada 6 - Apresentação](06-presentation.md)
 7. [Camada 7 - Aplicação](07-application.md)
 
-A documentação será expandida conforme as demais camadas forem incorporadas à base técnica.
-
 ## Referências Bibliográficas
 
-TANENBAUM, Andrew S. *Redes de Computadores*. 4. ed. Rio de Janeiro: Elsevier, 2005.
+TANENBAUM, Andrew S. *Redes de Computadores*. 4. ed. [Rio de Janeiro]: Campus, 2003.
