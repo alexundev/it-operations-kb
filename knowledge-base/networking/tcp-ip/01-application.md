@@ -13,3 +13,9 @@ A camada de Aplicação inclui protocolos e serviços de rede, como:
 - Entre outros.
 
 ## Visão de Troubleshooting
+
+Na Camada de Aplicação, podemos investigar problemas relacionados aos serviços e protocolos de rede utilizados pelas aplicações.
+
+Alguns exemplos são falhas na resolução de nomes pelo DNS e problemas de comunicação utilizando HTTP ou HTTPS.
+
+A investigação depende dos sintomas apresentados, buscando identificar qual serviço está sendo afetado.

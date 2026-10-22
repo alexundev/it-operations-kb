@@ -13,3 +13,7 @@ A Camada de Transporte faz a identificação e a multiplexação dos dados. Ou s
 É um protocolo ágil, mas que por si só, não é confiável. Por ser um protocolo mais simples e com menor sobrecarga de controle, não garante que as informações cheguem ao seu destino, não possui ordenação ou retransmissão automática.
 
 ## Visão de Troubleshooting
+
+Na Camada de Transporte, problemas de conexão com serviços específicos podem estar relacionados às portas e aos sockets TCP.
+
+Para investigar, podemos utilizar o comando `ss -tpan` no equipamento analisado, verificando os sockets TCP e seus respectivos estados.
